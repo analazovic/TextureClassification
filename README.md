@@ -19,9 +19,9 @@ Implementation of different texture feature extractors and texture classifiers f
 [SVM](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/SVM.ipynb)<br/> 
 
 Inside the folder, there are also three .mat files containing extracted GLCM features, Wavelet features and obtained results:<br/>
--[GLCM_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/GLCM_Features.mat)<br/> 
--[Wavelet_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Wavelet_Features.mat)<br/> 
--[Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
+ - [GLCM_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/GLCM_Features.mat)<br/> 
+ - [Wavelet_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Wavelet_Features.mat)<br/> 
+ - [Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
 
 ## RGB Texture Image Classification
 
@@ -38,6 +38,6 @@ Inside the folder, there are also three .mat files containing extracted GLCM fea
 [Main_program_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Main_program_RGB.m)<br/>
 
 Inside the folder, there is also a .mat file containing obtained Wavelet features:<br/>
--[Wavelet_Features_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_Features_RGB.mat)<br/>
+ - [Wavelet_Features_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_Features_RGB.mat)<br/>
 
 
