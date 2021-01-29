@@ -1,8 +1,6 @@
 # TextureClassification
 
-[Grayscale Texture Image Classification](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification)<br/> 
-[RGB Texture Image Classification](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification)<br/> 
-
+Implementation of different texture feature extractors and texture classifiers for both [Grayscale](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification) and [RGB](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification) images.<br/> 
 
 ## Grayscale Texture Image Classification
 [Feature Extraction](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction)<br/> 
