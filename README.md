@@ -3,7 +3,7 @@
 Implementation of different texture feature extractors and texture classifiers for both [Grayscale](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification) and [RGB](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification) images.<br/> 
 
 ## Grayscale Texture Image Classification
-Methods used for [Feature Extraction](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction) are based on:
+Methods used for [Feature Extraction](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction) of grayscale texture images are based on:
  1. Gray level co-occurrence matrix (GLCM)
  2. Discrete wavelet package transform (DWPT)
  
@@ -28,6 +28,9 @@ Inside the folder, there are three .mat files containing extracted GLCM features
  - [Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
 
 ## RGB Texture Image Classification
+Features of RGB texture images are extracted using:
+ 1. Discrete wavelet package transform (DWPT)
+ 2. Pretrained AlexNet CNN with modified last layer
 
 [Wavelet based classification](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification)<br/>
 [AlexNet feature extraction and SVM](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification/AlexNet%20feature%20extraction%20and%20SVM)<br/>
