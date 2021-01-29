@@ -2,7 +2,9 @@
 
 Implementation of different texture feature extractors and texture classifiers for both [Grayscale](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification) and [RGB](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification) images.<br/> 
 
-The implemented algorithms are tested on [Outex-TC](http://lagis-vi.univ-lille1.fr/datasets/outex.html) databases. Algorithms for grayscale images are tested on Outex_TC_00010-r database, while algorithms for RGB images are tested on Outex_TC_00010-c database.
+The implemented algorithms are tested on [Outex-TC](http://lagis-vi.univ-lille1.fr/datasets/outex.html) databases. Algorithms for grayscale images are tested on Outex_TC_00010-r database, while algorithms for RGB images are tested on Outex_TC_00010-c database.<br/> 
+
+Algorithms are implemented in either MATLAB or Python.
 
 ## Grayscale Texture Image Classification
 Methods used for [Feature Extraction](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction) of grayscale texture images are based on:
@@ -48,6 +50,3 @@ The extracted feature vectors are given in two seperate files:<br/>
 
 Dimension of the extracted feature vector is reduced using the PCA algorithm, after which an
 [SVM](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/AlexNet%20feature%20extraction%20and%20SVM/SVMclassification.ipynb) classifier is trained on new features.<br/>
-
-
-
