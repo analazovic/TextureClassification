@@ -1,0 +1,25 @@
+24
+canvas001 0 1
+canvas002 1 1
+canvas003 2 1
+canvas005 3 1
+canvas006 4 1
+canvas009 5 1
+canvas011 6 1
+canvas021 7 1
+canvas022 8 1
+canvas023 9 1
+canvas025 10 1
+canvas026 11 1
+canvas031 12 1
+canvas032 13 1
+canvas033 14 1
+canvas035 15 1
+canvas038 16 1
+canvas039 17 1
+tile005 18 1
+tile006 19 1
+carpet002 20 1
+carpet004 21 1
+carpet005 22 1
+carpet009 23 1
