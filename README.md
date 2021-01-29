@@ -17,9 +17,11 @@ Implementation of different texture feature extractors and texture classifiers f
  
 [Main_program](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Main_program.m)<br/> 
 [SVM](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/SVM.ipynb)<br/> 
-[GLCM_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/GLCM_Features.mat)<br/> 
-[Wavelet_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Wavelet_Features.mat)<br/> 
-[Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
+
+Inside the folder, there are also three .mat files containing extracted GLCM features, Wavelet features and obtained results:<br/>
+-[GLCM_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/GLCM_Features.mat)<br/> 
+-[Wavelet_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Wavelet_Features.mat)<br/> 
+-[Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
 
 ## RGB Texture Image Classification
 
@@ -34,6 +36,8 @@ Implementation of different texture feature extractors and texture classifiers f
 [Wavelet_image_features](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_image_features.m)<br/>
 [Wavelet_features_extraction_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_features_extraction_RGB.m)<br/>
 [Main_program_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Main_program_RGB.m)<br/>
-[Wavelet_Features_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_Features_RGB.mat)<br/>
+
+Inside the folder, there is also a .mat file containing obtained Wavelet features:<br/>
+-[Wavelet_Features_RGB](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/Wavelet%20based%20classification/Wavelet_Features_RGB.mat)<br/>
 
 
