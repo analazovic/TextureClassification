@@ -11,8 +11,9 @@ Implementation of different texture feature extractors and texture classifiers f
 <br/>
 [Wavelet_features_extraction](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/Wavelet_features_extraction.m)<br/> 
 
-[PlotDWPT](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/PlotDWPT.m)
-[DWPTExample](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/DWPTExample.m)<br/> 
+Inside the folder, there are example of ploting Wavelet energy that is used for extracting features for texture classification:
+ - [PlotDWPT](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/PlotDWPT.m)<br/>
+ - [DWPTExample](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/DWPTExample.m)<br/> 
 
  
 [Main_program](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Main_program.m)<br/> 
