@@ -11,7 +11,7 @@ Implementation of different texture feature extractors and texture classifiers f
 <br/>
 [Wavelet_features_extraction](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/Wavelet_features_extraction.m)<br/> 
 
-Inside the folder, there are example of ploting Wavelet energy that is used for extracting features for texture classification:
+Inside the folder, there is example of ploting Wavelet energy that is used for extracting features for texture classification:
  - [PlotDWPT](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/PlotDWPT.m)<br/>
  - [DWPTExample](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Feature%20Extraction/DWPTExample.m)<br/> 
 
@@ -19,7 +19,7 @@ Inside the folder, there are example of ploting Wavelet energy that is used for 
 [Main_program](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Main_program.m)<br/> 
 [SVM](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/SVM.ipynb)<br/> 
 
-Inside the folder, there are also three .mat files containing extracted GLCM features, Wavelet features and obtained results:<br/>
+Inside the folder, there are three .mat files containing extracted GLCM features, Wavelet features and obtained results:<br/>
  - [GLCM_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/GLCM_Features.mat)<br/> 
  - [Wavelet_Features](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Wavelet_Features.mat)<br/> 
  - [Results](https://github.com/analazovic/TextureClassification/blob/main/Grayscale%20Texture%20Image%20Classification/Results.mat)<br/> 
