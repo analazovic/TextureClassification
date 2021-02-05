@@ -1,4 +1,4 @@
-# TextureClassification
+# Texture Classification
 
 Implementation of different texture feature extractors and texture classifiers for both [Grayscale](https://github.com/analazovic/TextureClassification/tree/main/Grayscale%20Texture%20Image%20Classification) and [RGB](https://github.com/analazovic/TextureClassification/tree/main/RGB%20Texture%20Image%20Classification) images.<br/> 
 
@@ -45,7 +45,7 @@ Pretrained AlexNet is used to extract 4096 dimensional feature vector. Implement
 The extracted feature vectors are given in two seperate files:<br/>
  - [Train data](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/AlexNet%20feature%20extraction%20and%20SVM/Train_data.npz)
  - [Test data](https://github.com/analazovic/TextureClassification/blob/main/RGB%20Texture%20Image%20Classification/AlexNet%20feature%20extraction%20and%20SVM/Test_data.rar)
- (Test data is given in .rar format due to size >25MB)<br/> 
+ (Test data is given in .rar format)<br/> 
 
 
 Dimension of the extracted feature vector is reduced using the PCA algorithm, after which an
